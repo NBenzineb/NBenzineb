@@ -1,5 +1,8 @@
 ### Hey there 👋
 
+Fast learner and eager to explore new technologies. 
+Training in the essentials of web development and best practice processes including object-oriented programming (OOP), test-driven development (TDD), REST APIs and agile development.
+
 <p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://linkedin.com/in/nbenzineb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia benzineb" height="30" width="40" /></a>
